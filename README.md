@@ -21,11 +21,45 @@ The BritCommerce Ltd. has achieved substantial scale with 98,723 total orders ge
 
 # Sales Trends
 
-## Annual Revenue and Profit Chart
+## Annual Revenue and Profit 
 
 The Annual Revenue and Profit chart shows BritCommerce Ltd.'s financial performance over three years, with total revenue growing from $68M in 2022 to $80M in 2023 (an 18% increase), then declining to $73M in 2024 (a 9% drop). Profit margins remained relatively stable across the period, with profits of $16M in 2022, $18M in 2023, and $17M in 2024, maintaining consistent profitability ratios around 23-24%. The 2023 peak represents the company's strongest performance year, generating $98M in combined revenue and profit, but the 2024 contraction suggests emerging challenges that interrupted the growth trajectory. This revenue decline, despite maintaining healthy profit margins, indicates potential market pressures or competitive challenges that require strategic intervention to restore growth momentum.
 
-## Revenue by Year and Month Chart
+## Revenue by Year and Month 
+
 The Revenue by Year and Month chart reveals distinct seasonal patterns with BritCommerce experiencing peak performance in May and December 2023, reaching approximately $8.5M, while experiencing a notable summer decline with July 2023 hitting a low point around $5.5M. The company recovered strongly by December 2023, but faced a sharp downturn in early 2024 with January and February showing significant drops to around $5.2M. Throughout 2024, the revenue pattern shows continued volatility with peaks in August and December reaching $7M-$7.5M, but experiencing troughs in February and September at approximately $5.3M. This pattern suggests BritCommerce's business is influenced by specific seasonal factors that differ from traditional retail cycles, with summer months being particularly challenging and strong performance occurring during spring (May) and winter holiday periods (December), indicating the need for targeted strategies during these predictable low-demand periods.
+
+## Revenue vs. Monthly Moving Averages by Date 
+
+The Revenue vs. Monthly Moving Averages chart reveals different peak timings across the moving average periods, indicating delayed momentum effects in BritCommerce's revenue trends. The 3-month moving average (blue line) reaches its peak at the end of 2023/beginning of 2024, showing the most immediate response to the strong late-2023 performance. The 6-month moving average (orange line) peaks later in the first quarter of 2024 and again around the fourth month (April), which falls in the second quarter of 2024, reflecting a more gradual incorporation of the revenue gains. Most notably, the 12-month moving average (purple line) doesn't reach its peak until around the fourth month (April) of 2024, which is in the second quarter, demonstrating how longer-term trends can mask short-term volatility and show sustained momentum even as recent performance declines. This staggered peak pattern suggests that while BritCommerce experienced its strongest operational performance in late 2023, the beneficial effects continued to influence longer-term averages well into the second quarter of 2024. The daily revenue spikes (light blue bars) continue to show significant volatility throughout the period, but the moving averages provide clear evidence of how different time horizons reveal varying perspectives on the company's performance trajectory.
+
+## Monthly Revenue vs. Profit Breakdown 
+
+This stacked bar chart reveals BritCommerce's seasonal performance patterns across 2022-2024, with May ($26.8M total) and December ($27.0M total) emerging as peak revenue months, while February shows the weakest performance at $17.7M total. The company maintains consistent profit margins of 18-23% throughout the year, demonstrating stable operational efficiency despite seasonal revenue fluctuations. The strong performance in May and December likely corresponds to key shopping seasons and promotional campaigns that drive both revenue growth and sustained profitability.
+
+## Order Volume by Weekday 
+
+The weekday order distribution across 2022-2024 shows Monday as BritCommerce's peak ordering day with approximately 19,000 total orders, followed by Wednesday at around 17,500 orders, indicating strong start-of-week momentum and mid-week customer engagement. Sunday represents the lowest order volume at roughly 7,500 orders, demonstrating typical consumer behavior where weekend shopping activity is minimal compared to weekdays. The relatively consistent order volumes from Tuesday through Friday (13,000-15,000 orders each) suggest stable business-day purchasing patterns, with a notable drop-off on Saturday (12,000 orders) as the weekend begins.
+
+## Month-over-Month (%) Growth in Revenue 
+
+This chart displays BritCommerce's average monthly growth patterns across 2022-2024, revealing distinct seasonal trends in revenue momentum. The company experiences its strongest growth periods in March (25%), May (23%), and October (25%), indicating robust performance during spring months and the crucial fourth-quarter period leading into holiday sales. Conversely, BritCommerce faces consistent challenges in January (-15%), February (-16%), and September (-22%), with September showing the most severe contraction, likely reflecting post-summer market conditions and pre-holiday consumer spending patterns. The volatile nature of month-over-month growth, swinging from significant declines to substantial gains, suggests BritCommerce's revenue is highly sensitive to seasonal factors and consumer behavior cycles.
+
+## City-Level Map of Revenue
+
+BritCommerce Ltd shows strong European market penetration with clear geographic concentration around major economic hubs like London, Paris, Berlin, and Rome. The company demonstrates particularly robust performance in Northern and Western European markets (UK, Germany, France, Benelux), while maintaining meaningful but smaller revenue streams from Southern and Eastern European cities. This distribution reflects a well-diversified European customer base with expected revenue disparities between major capitals and secondary metropolitan areas.
+
+
+# Product Performance
+
+
+
+
+# Payment Method Analysis
+
+## Payment Method Performance Analysis
+
+BritCommerce's payment data shows credit card as the dominant method with 39,440 orders (39.9% of total) generating $88.5M in revenue and $20.2M profit, followed by debit card at 24,701 orders (25.0%) with $55.7M revenue and $12.7M profit. Cash on delivery, mobile payment, and PayPal each contribute roughly 10% of orders with revenues approximately about $22M, while cryptocurrency remains limited at 5,026 orders (5.1%) but still generates $11.3M in revenue. Despite varied payment preferences, average order values remain remarkably consistent across all methods ($2,221-$2,256), and profit margins appear relatively stable, indicating healthy profitability across all payment channels. This distribution highlights BritCommerce's successful multi-payment strategy while suggesting opportunities to further promote digital payment adoption among their customer base.
+
 
 
