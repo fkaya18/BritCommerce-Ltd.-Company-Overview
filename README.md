@@ -75,6 +75,24 @@ The top-selling products reveal Electronics leading in profitability with Produc
 The heatmap shows that **High Spenders** significantly dominate sales, especially in **Home & Kitchen** and **Toys**, indicated by the darkest shades. Other segments like **Loyal** and **Promising** also contribute noticeably across categories, but at a lower intensity. Segments such as **Newbies**, **Occasional Shoppers**, and **Value Seekers** have minimal engagement across all product lines.
 
 
+# Customer Demographics and Segmentation
+
+## Number of Customers per Country
+
+BritCommerce Ltd demonstrates strong home market dominance with the UK representing the largest customer base and highest revenue (darkest green), followed by Germany as the second key market. The company shows solid European diversification across major markets like France, Italy, and Spain, while the lighter shading on Nordic and Eastern European countries indicates potential for revenue growth in these smaller markets.
+
+## Number of Customers per Age
+
+BritCommerce Ltd's customer base shows a strong concentration in younger demographics, with the 26-35 age group representing the largest segment at 35.95% (15.53K customers), followed closely by 18-25 year-olds at 24.04% (10.38K customers). The company effectively captures nearly 60% of its customers from these two younger segments, while maintaining solid representation across middle-aged groups (36-45 and 46-55), suggesting successful appeal to digitally-native consumers with room to expand among older demographics.
+
+## Number of Customer per Segment
+
+BritCommerce Ltd's customer segmentation reveals a healthy mix with Value Seekers forming the largest group at 25.7% (11.1K customers), followed closely by Loyal customers at 23.47% (10.14K) and High Spenders at 14.84% (6.41K). The company successfully maintains strong relationships with high-value segments while also capturing price-conscious consumers, though the relatively small Champions segment at just 1.52% suggests an opportunity to cultivate more top-tier customers who combine high spending with strong loyalty.
+
+## Total Revenue per Customer Segment and Gender
+
+High Spenders dominate BritCommerce Ltd's revenue generation at $97.42M, with female customers contributing significantly more than males across this top-performing segment. While Value Seekers represent the largest customer count, they generate considerably less revenue ($26.56M) compared to High Spenders, highlighting the critical importance of the premium customer segments for the company's financial performance. The gender distribution shows females consistently outspending males across most segments, suggesting targeted marketing toward female demographics could further optimize revenue growth.
+
 # Payment Method Analysis
 
 ## Payment Method Performance Analysis
