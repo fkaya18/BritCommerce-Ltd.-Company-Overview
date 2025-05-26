@@ -52,7 +52,27 @@ BritCommerce Ltd shows strong European market penetration with clear geographic 
 
 # Product Performance
 
+Product_6028_WEWBO from the Automotive category leads BritCommerce in sales volume with 244 units sold and $16.38K revenue, but its 19.32% profit margin significantly underperforms the 29.58% company average. Despite being the top-selling product, its modest revenue pales compared to products generating over $100K, highlighting a concerning disconnect between sales volume and profitability performance.
 
+## Revenue by Product Line
+
+Toys and Home&Kitchen are the most dominant revenue generators, followed by Health&Fitness and Electronics. Despite the narrow profit margin range (Gaming at 23.55% highest, Sneakers at 22.28% lowest), the color variations highlight that high-revenue categories like Toys maintain relatively lower margins while smaller segments like Gaming achieve the best profitability rates across the portfolio.
+
+## Top 7 Revenue Generating Product Lines
+
+BritCommerce's product portfolio shows Toys as the clear revenue leader at $46.1M total, followed by Home&Kitchen at $37.9M, but concerning revenue declines across all product lines in 2024 from 2023 peaks suggest market challenges or increased competition. Despite the diversified product mix spanning consumer discretionary categories to Electronics ($16.3M) and Clothing ($11.7M), the consistent downward trend in the most recent year indicates potential performance issues requiring strategic attention.
+
+## Total Product Count and Average Profit Percentage by Product Line
+
+BritCommerce's product portfolio shows Toys dominating with over 6,000 products at 29.6% profit margins, while smaller categories like Gaming, Books, and Snacks & Chocolates achieve the highest profit percentages (reaching 30.2%) despite lower volumes. This inverse relationship between product volume and profitability suggests BritCommerce could benefit from strategically expanding high-margin niche categories while optimizing their high-volume segments.
+
+## Top 10 Best-Selling Products Analysis
+
+The top-selling products reveal Electronics leading in profitability with Product_29262_CY8BO achieving a 19.7% profit margin ($25,186 profit on $127,510 revenue), while Home&Kitchen's Product_19574_EWCOS delivers the highest absolute profit of $30,477 with a 25.9% margin. Profit margins across the top products range from 16.2% to 25.9%, with Home&Kitchen and Electronics categories generally outperforming Toys and Automotive in profitability despite similar sales volumes. This data suggests BritCommerce's pricing strategy effectively balances competitiveness with profitability across their diverse product portfolio.
+
+## Customer Segment vs Product Line Sales Heatmap
+
+The heatmap shows that **High Spenders** significantly dominate sales, especially in **Home & Kitchen** and **Toys**, indicated by the darkest shades. Other segments like **Loyal** and **Promising** also contribute noticeably across categories, but at a lower intensity. Segments such as **Newbies**, **Occasional Shoppers**, and **Value Seekers** have minimal engagement across all product lines.
 
 
 # Payment Method Analysis
