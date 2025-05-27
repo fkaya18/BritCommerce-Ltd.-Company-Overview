@@ -13,7 +13,7 @@ The report provides evaluations and guidance on the following major topics:
 # 🧩 Schema Description
 The SQL code establishes a comprehensive database system for BritCommerceLtd with three interconnected tables, implementing advanced customer segmentation through CTEs and automated profit calculations. The implementation includes robust data validation protocols and enriches the dataset with analytical dimensions such as customer segments, age categories, and profitability metrics to enable sophisticated business intelligence and marketing analytics.
 
-You can access the SQL codes used to accomplish all this here.
+You can access the SQL codes used to accomplish all this [here](BritCommerceLtd.sql).
 
 BritCommerce's database follows a classic e-commerce structure with three core tables: products (storing product details, costs, and pricing), customers (containing demographic and segmentation data), and sales (capturing transaction records). The sales table serves as the central hub, linking products and customers through foreign key relationships while storing essential transaction data including quantities, payments, and calculated profits.
 
@@ -23,7 +23,7 @@ BritCommerce's database follows a classic e-commerce structure with three core t
 # Executive Summary
 The BritCommerce Ltd. has achieved substantial scale with 98,723 total orders generating $221.59M in revenue across 43,199 customers, maintaining a healthy 22.85% profit margin. Revenue growth tells a story of rapid expansion followed by contraction, with strong year-over-year growth of 17.67% in 2023 as revenue increased from $68M to $80M, but experiencing a significant decline of -8.55% in 2024 with revenue dropping to $73M. The company maintains consistent monthly performance with revenues stabilizing around $20M per month, while the average order value of $2.24K indicates a premium market positioning. Despite the recent revenue decline, the business demonstrates operational resilience with diversified payment methods and global geographic reach.
 
-You can download the full interactive dashboard here.
+You can download the full interactive dashboard [here](BritCommerceLtd_dashboard.pbix).
 
 ![Executive Summary](images/sales_analysis.png)
 
