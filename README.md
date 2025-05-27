@@ -12,7 +12,9 @@ The report provides evaluations and guidance on the following major topics:
 
 # 🧩 Schema Description
 
-This relational database schema models an e-commerce platform, consisting of three main tables: customers, products, and sales. It captures customer demographics, product details, and transaction records, with foreign key relationships linking sales to both customers and products. This structure supports customer behavior analysis, product performance tracking, and sales reporting.
+BritCommerce's database follows a classic e-commerce structure with three core tables: products (storing product details, costs, and pricing), customers (containing demographic and segmentation data), and sales (capturing transaction records). The sales table serves as the central hub, linking products and customers through foreign key relationships while storing essential transaction data including quantities, payments, and calculated profits.
+
+![Database Schema](database_schema.png)
 
 
 # Executive Summary
